@@ -1,4 +1,4 @@
-# neo4j-
+# 高中数学知识图谱，可视化，问答，neo4j
 把Label Studio标注好实体关系的JSON文件导入neo4j，并且用Cypher实现简单问答功能。
 # 该项目有298个实体和297个关系
 # ![image](https://github.com/Jiahe1/neo4j-/assets/58599488/598bb41e-41a9-4521-8030-2a1557c221ea)
